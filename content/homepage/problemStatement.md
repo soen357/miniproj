@@ -4,8 +4,8 @@ weight: 1
 ---
 
 
-#### Problem 1: wellbeing of the elderly
-According to the World Health Organization, over 20% of people over the age of 60 suffer from a mental or neurological disorder.  There are many risk factors for mental health that can occur at any point in life, but elderly are especially vulnerable because they also have other life stressor that happen later in life.   Some examples are loss in capabilities, chronic pain, stereotyping and prejudice . These stressors can lead the elderly to isolate themselves, suffer from loneliness and psychological distress.
+#### Problem1: wellbeing of the elderly
+According to the World Health Organization, over 20% of people over the age of 60 suffer from a mental or neurological disorder[1].  There are many risk factors for mental health that can occur at any point in life, but elderly are especially vulnerable because they also have other life stressor that happen later in life[2].   Some examples are loss in capabilities, chronic pain, stereotyping and prejudice[3] . These stressors can lead the elderly to isolate themselves, suffer from loneliness and psychological distress.
 
 We are aiming to solve these issues with the help of our application. We want to help stimulate senior’s cognitive through fun mini games. We want to help them stay alert  and relax and have fun. These games can also be played with friends and family and we hope the application will alleviate their sense of loneliness.
 
