@@ -185,7 +185,7 @@ a:hover {
 
 a.btn {
   text-decoration: none;
-  background-color: #9fd067;
+  background-color: #22343a;
   border-radius: 6px;
   -webkit-border-radius: 6px;
   color: white;
@@ -521,7 +521,7 @@ ul li {
   position: relative;
 }
 .post-holder.odd {
-  background: #b80135;
+  background: #5c9488;
   color: white;
 }
 
