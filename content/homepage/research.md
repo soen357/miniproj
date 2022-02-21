@@ -14,7 +14,7 @@ According to research, video games are still part of boomers’ lives. Adults be
 
 ---
 
-## Studies
+## Surveys
 We organized a survey to have a better understanding of the older one's vision about technology and what are the pain points and the benefits they fin using various applications. The total population of our survey is 12 people from two different groups: the ones between 50 and 69 years old \(which consist in 8 people\) and people over 70 years old \(consisting in 4 individuals\). \
 \
 We interviewed them to know the importance they give to technology.\
